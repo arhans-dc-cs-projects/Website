@@ -1,0 +1,20 @@
+<script>
+
+
+//fibonacci sequence
+// 0 1 1 2 3 5 8 13 ...
+var t = parseInt(prompt("How many terms do you want to print?"))
+var n1 = 0
+var n2 = 1
+var next
+for(var i=1;i<=t;i++){
+	document.write(n1+"&nbsp;&nbsp;")
+	next=n1+n2
+	n1=n2
+	n2=next
+}
+
+
+
+
+</script>
