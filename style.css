@@ -1,0 +1,152 @@
+/* Color for the background of the main page */
+body {
+ background-image: url("bluebg.png");
+}
+
+/* Styling for the first text (Hi, I'm Arhan.) */
+.mypurple{
+  background-color:#b881ff;
+  width: 450px;
+position: fixed;
+top: 30%;
+left: 50%;
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+
+}
+
+/* Styling for the Information part of the Landing Page (What the website is about.) */
+.aboutwebsite{
+  background-color:#b881ff;
+  width: 450px;
+position: fixed;
+top: 65%;
+left: 50%;
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+
+}
+
+
+/* Styling for the "about part" on the about pagee */
+.aboutpart{
+  background-color:#b881ff;
+  width: 450px;
+position: fixed;
+top: 25%;
+left: 50%;
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+
+}
+
+/* Styling for the "skills part" on the about page */
+.skillspart{
+  background-color:#b881ff;
+  width: 450px;
+position: fixed;
+top: 65%;
+left: 50%;
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+}
+
+
+
+
+
+/* Styling for the "Projects" on the projects page */
+
+.projects{
+  background-color:#b881ff;
+  width: 450px;
+position: fixed;
+top: 20%;
+left: 50%;
+/* bring your own prefixes */
+transform: translate(-50%, -50%); 
+}
+
+
+
+
+
+  
+
+/* Styling for the "Trade Buddy" part on the projects page */
+.tradebuddy{
+  background-color:#b881ff;
+  width: 450px;
+position: fixed;
+top: 65%;
+left: 20%;
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+}
+
+/* Styling for the "Peaks Education" part on the projects page */
+.peaks{
+  background-color:#b881ff;
+  width: 450px;
+position: fixed;
+top: 65%;
+left: 80%;
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+}
+
+/* Styling for the "Test out projects" part on the small projects page */
+.testout{
+  background-color:#106cfc;
+  width: 450px;
+position: fixed;
+top: 90%;
+left: 50%; 
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+}
+
+/* Styling for the "Small projects" part on the projects page */
+.smallprojects{
+  background-color:#106cfc;
+  width: 450px;
+position: fixed;
+top: 90%;
+left: 50%; 
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+}
+
+/* Styling for the "Snake Game" part on the small projects page */
+.snakegame{
+  background-color:#b881ff;
+  width: 450px;
+position: fixed;
+top: 65%;
+left: 20%;
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+}
+
+/* Styling for the "Flappy Bird Shoot" part on the small projects page */
+.flappygame{
+  background-color:#b881ff;
+  width: 450px;
+position: fixed;
+top: 65%;
+left: 80%;
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+}
+
+ 
+ /* Styling for the "Ping Pong Game" part on the small projects page */
+.pingpong{
+  background-color:#b881ff;
+  width: 450px;
+position: fixed;
+top: 65%;
+left: 50%; 
+/* bring your own prefixes */
+transform: translate(-50%, -50%);
+}
